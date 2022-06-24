@@ -1,0 +1,50 @@
+/* Las tipografías utilizadas son:
+
+- 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif */
+
+.logo-disney{
+    width: 250px;
+    height: 160px;
+    display: block; 
+    margin: auto; 
+}
+
+h1 {    
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    text-align: center;
+    color: #BC579A;
+    font-weight: lighter;
+    letter-spacing: 15px;
+}
+
+.estilos-fuente {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    color: #BC579A;
+    font-weight: 500;
+    letter-spacing: 8px;
+}
+
+p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    color: #6C7CB5;
+    font-size: smaller;
+    
+}
+
+.imagenDerecha{
+    float: right;
+    width: 400px;
+    height: 250px;
+    margin: 0px 0px 4px 10px;
+}
+
+.imagenIzquierda{
+    float: left;
+    width: 400px;
+    height: 250px;
+    margin: 0px 10px 4px 0px;
+}
+
+.imagenGrande{
+    width: 100%;
+}

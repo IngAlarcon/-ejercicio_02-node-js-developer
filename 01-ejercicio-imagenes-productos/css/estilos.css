@@ -1,0 +1,75 @@
+/*
+Las tipografías utilizadas son:
+
+- 'Lucida Sans Unicode', 'Lucida Grande', sans-serif
+- Impact, Charcoal, sans-serif
+- Arial, Gadget, sans-serif
+
+*/
+
+body {
+    background-color: #273238;
+    
+    
+}
+
+
+h1 {
+    
+    font-family: 'Impact', 'Charcoal', sans-serif;
+    text-align: center;
+    color: #698593;
+    background: white;
+    font-size: 70px;
+    
+}
+
+p {
+    
+    font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+    color: #D0D8DC;
+    font-size: 15px;
+    
+    
+    
+}
+
+h2 {
+    font-family: Arial, 'Gadget', sans-serif;
+    
+    color: white;
+    font-style: italic;
+    font-weight: 900;
+    font-size: 20px;
+    
+}
+
+.primeraLetra{
+    font-size: 26px;
+}
+
+img {
+    position: relative;
+     /* ajustar los valores para mover la imagen */
+    left: 35px;
+    border: 5px solid;
+}
+
+.colorAspiradora {
+    color: #E6CBBF;
+}
+
+.colorCelulares {
+    color: #A1C1CB;
+}
+
+.colorConsolas {
+    color:#BCBDBF;
+}
+.colorHome { 
+    color:#8D94A1 ;
+}
+
+.colorTelevisores { 
+    color:#B2B2AA ;
+}
